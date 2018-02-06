@@ -57,7 +57,6 @@ class App extends Component {
             console.log("cleared");
         }
         this.setState({ auto: false, clickable: true, ...state });
-
     }
 
     handleResetClick = () => {
