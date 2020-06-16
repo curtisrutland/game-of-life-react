@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 # Conway's Game of Life
-## in React
+
+### [Live Demo](https://curtisrutland.github.io/game-of-life-react/)
+
+[What is Conway's Game of Life?](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
